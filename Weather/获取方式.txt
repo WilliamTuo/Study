@@ -1,0 +1,9 @@
+考虑从中国气象局网站获取：
+map 页面：
+https://weather.cma.cn/web/weather/map.html
+
+北京市页面：
+https://weather.cma.cn/web/weather/54511.html
+
+以 utf-8 方式打开文件进行写入
+BeatuifulSoup 进行网页规整
